@@ -158,6 +158,7 @@ body {
   padding: 1rem 3rem;
   font-size: 1.4rem;
   color: #fff;
+  cursor: pointer;
   background-color: #de5c0a77;
   border-radius: 0.5rem;
   box-shadow: 1px 1px 3px rgba(1,1,3,0.5);
